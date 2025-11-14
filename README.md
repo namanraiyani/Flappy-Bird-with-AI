@@ -1,6 +1,7 @@
 # Flappy-Bird-with-AI
 
-![Uploading flappy (1).gif…]()
+![flappy (1)](https://github.com/user-attachments/assets/b48163fb-e543-470a-9e6c-4a45abe5957e)
+
 
 A compact Flappy Bird clone where a simple neuroevolution setup trains agents to play. The project mixes a lightweight Pygame front-end with a minimal genetic algorithm and tiny feed‑forward neural agents — useful as a learning toy or baseline for experiments in evolving controllers.
 
